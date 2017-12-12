@@ -1,1 +1,1 @@
-This is my portfolio. To be honest, I started out with a bootstrap template. As several wise people have told me, "work smarter not harder". I've updated quite a bit of the HTML, some of the CSS, and the JS is perfectly functional.
+Bret Tabor's Portfolio. 
